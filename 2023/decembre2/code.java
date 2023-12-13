@@ -1,10 +1,3 @@
-package decembre2;
-
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class code {
 	public static void main(String[] args) throws FileNotFoundException  {
 		Scanner scanner = new Scanner(new File("./src/Decembre2/input.txt")); 
@@ -17,4 +10,8 @@ public class code {
         }
 		System.out.print(line);
 	}
+	//A finir
+
+
+
 }

@@ -1,9 +1,3 @@
-package decembre1;
-
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.Reader;
-
 public class code {
 	
 	public static void main(String[] args) throws IOException{
@@ -12,7 +6,6 @@ public class code {
 	}	
 	
 	public code() {
-		// TODO Auto-generated constructor stub
 	}
 	
 	public int compte(String file) throws IOException {
