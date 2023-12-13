@@ -14,8 +14,9 @@ Les inputs ne sont pas donner par demande du créateur : [https://github.com/top
 
 1. Assurez-vous d'avoir Eclipse installé sur votre machine.
 2. Créer un projet et importé le fichier ainsi que votre input.
-3. Compilez et exécutez le fichier de solution.
-4. A vous de jouez !!!!
+3. Implenter les import et rajouter le nom de votre package.
+4. Compilez et exécutez le fichier de solution.
+5. A vous de jouez !!!!
 
 
 ryquo1
