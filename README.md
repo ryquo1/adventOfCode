@@ -7,7 +7,7 @@
 Ce référentiel contient mes solutions pour les défis de l'Advent of Code. L'Advent of Code est un événement annuel de programmation de 25 jours avec des énigmes de plus en plus complexes.
 
 Chaque jour a son propre dossier (`decembre1`, `decembre2`, etc.) contenant les fichiers de code source, solutions. Le code est écrit en Java pour résoudre les défis.
-Les inputs ne sont pas donner par demande du créateur : [https://github.com/topaz]
+Les inputs ne sont pas donner par demande du créateur : Topaz[https://github.com/topaz]
 
 
 ## Comment exécuter
